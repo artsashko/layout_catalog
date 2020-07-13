@@ -1,0 +1,14 @@
+$textColor: #000;
+$mainColor: #fff;
+$secondaryColor: #00acdc;
+$productBorberColor: #f3f3f3;
+
+$headerHeight: 60px;
+$productWidth: 200px;
+$productMarginX: 48px;
+$productImgWidth: 160px;
+$productImgHeight: 134px;
+$productImgScale: 1.2;
+
+$paddingOnScale:$productImgHeight * ($productImgScale - 1) / 2;
+
