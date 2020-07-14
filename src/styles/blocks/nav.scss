@@ -24,6 +24,7 @@
     text-decoration: none;
     text-transform: uppercase;
     position: relative;
+    transition: color 1s;
 
     &:hover {
       color: $secondaryColor;
